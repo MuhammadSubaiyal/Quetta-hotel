@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\mysql-connector-j-9.6.0.jar",
+        "c:\\Users\\My PC\\OneDrive\\Desktop\\Quetta hotel\\lib\\mysql-connector-j-9.6.0.jar"
+    ],
+    "liveServer.settings.port": 5501
+}
