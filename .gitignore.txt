@@ -1,0 +1,14 @@
+.vscode/
+
+# Java compiled files
+*.class
+backend/bin/
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
