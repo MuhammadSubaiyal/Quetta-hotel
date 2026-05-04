@@ -5,7 +5,6 @@ const menuItems = [
     category: "Drinks",
     price: 80,
     icon: "☕",
-    image: "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 2,
@@ -13,7 +12,6 @@ const menuItems = [
     category: "Drinks",
     price: 100,
     icon: "☕",
-    image: "https://images.unsplash.com/photo-1517685352821-92cf88aee5a5?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 3,
@@ -21,7 +19,6 @@ const menuItems = [
     category: "Drinks",
     price: 90,
     icon: "🍵",
-    image: "https://images.unsplash.com/photo-1510626176961-4b57ea43df2f?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 4,
@@ -29,7 +26,6 @@ const menuItems = [
     category: "Drinks",
     price: 140,
     icon: "🥛",
-    image: "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 5,
@@ -37,7 +33,6 @@ const menuItems = [
     category: "Breakfast",
     price: 120,
     icon: "🫓",
-    image: "https://images.unsplash.com/photo-1533777324565-a040eb52fac2?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 6,
@@ -45,7 +40,6 @@ const menuItems = [
     category: "Breakfast",
     price: 180,
     icon: "🥔",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 7,
@@ -53,7 +47,6 @@ const menuItems = [
     category: "Breakfast",
     price: 220,
     icon: "🍳",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=300&q=80"
   },
   {
     id: 8,
@@ -61,7 +54,6 @@ const menuItems = [
     category: "Breakfast",
     price: 260,
     icon: "🍽️",
-    image: "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=300&q=80"
   }
 ];
 

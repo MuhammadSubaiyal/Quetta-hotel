@@ -1,13 +1,11 @@
-.vscode/
-
-# Java compiled files
+# Ignore Java compiled files
 *.class
-backend/bin/
 
-# Logs
+# Ignore build folders
+bin/
+
+# Ignore logs
 *.log
-hs_err_pid*
-replay_pid*
 
 # OS files
 .DS_Store

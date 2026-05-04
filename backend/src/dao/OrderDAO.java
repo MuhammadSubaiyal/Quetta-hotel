@@ -16,6 +16,7 @@ public class OrderDAO {
             ps.setInt(2, tableId);
             ps.executeUpdate();
 
+            
             ResultSet rs = ps.getGeneratedKeys();
             if (rs.next()) {
                 orderId = rs.getInt(1);  // Get the auto-generated order_id
